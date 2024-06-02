@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ded2d5ee924e89b47b6b5107f75460df
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - zombiePrefab: {fileID: 2171387272081572862, guid: 5e110dbbc1a37994288276ead7854d04, type: 3}
+  - spawnPoint: {instanceID: 0}
+  - player: {fileID: 4416926081852918481, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
