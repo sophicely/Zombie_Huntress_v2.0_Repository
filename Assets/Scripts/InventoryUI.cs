@@ -38,4 +38,4 @@ public class InventoryUI : MonoBehaviour
         ItemSlot slot = obj.GetComponent<ItemSlot>();
         slot.Set(item);
     }
- }
+}
